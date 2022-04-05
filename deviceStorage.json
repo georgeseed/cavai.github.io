@@ -1,0 +1,22 @@
+{
+  "disclosures": [
+  ],
+  "domains": [
+    {
+      "domain": "retarget.adtech123.com",
+      "use": "Retargeting and conversion tracking"
+    },
+    {
+      "domain": "static.adtech123.com",
+      "use": "Static CSS and JavaScript"
+    },
+    {
+      "domain": "tracking.adtech123.com",
+      "use": "Ad server and tracking"
+    },
+    {
+      "domain": "video.adtech123.com",
+      "use": "Video and banner distribution"
+    }
+  ]
+}
